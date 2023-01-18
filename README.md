@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on as a Product Engineer (Data)
+🌱 I’m currently learning Azure
 
 <!--
 **sherindeen/sherindeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
